@@ -4,12 +4,16 @@ mlb-prospects-table
 What is this?
 -------------
 
-Datatable of 2014 MLB prospects.
+Data table of the best 2014 MLB prospects.
+
+Demo: http://dfm.ydr.com/article/presenting-the-consensus-top-100-mlb-prospects/dffe18ebb434bfc8059f5a79dd499f4a
+
+![MLB prospects](screenshots/mlb.png)
 
 Credits
 ---------
 
-Vaughn Hagerty
+Vaughn Hagerty, Jeremy Binckes, Tom Meagher, MaryJo Webster
 
 Assumptions
 -----------
